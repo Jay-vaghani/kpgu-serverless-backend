@@ -1,0 +1,7 @@
+node_modules
+.serverless
+# Ignore Google Sheets credentials file
+google-sheets-credentials.json
+
+# Ignore environment variable files
+.env
